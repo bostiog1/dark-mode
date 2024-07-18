@@ -1,2 +1,3 @@
-# dark-mode
-//first commit
+# Getting Started with Create React App
+
+### `npm start`
